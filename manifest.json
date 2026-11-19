@@ -1,10 +1,10 @@
 {
   "formatVersion": 1,
   "content": {
-    "version": "e07e4eeb88c10157",
-    "revision": 202611191404,
+    "version": "72398f0b5276a6ec",
+    "revision": 202611191428,
     "url": "plants.json",
-    "size": 1983039,
-    "sha256": "0054a3ee854921a2c4c254660f2927981a0836373d658ee92d62538b6813802d"
+    "size": 1983143,
+    "sha256": "7a33085da5491e218a556ee57a1345d7326dec25c4c34800d01d1fe1989324f8"
   }
 }
